@@ -1,0 +1,7 @@
+C:\Users\MiPro\source\repos\Figures\Figures\bin\Debug\Figures.exe.config
+C:\Users\MiPro\source\repos\Figures\Figures\bin\Debug\Figures.exe
+C:\Users\MiPro\source\repos\Figures\Figures\bin\Debug\Figures.pdb
+C:\Users\MiPro\source\repos\Figures\Figures\obj\Debug\Figures.csprojAssemblyReference.cache
+C:\Users\MiPro\source\repos\Figures\Figures\obj\Debug\Figures.csproj.CoreCompileInputs.cache
+C:\Users\MiPro\source\repos\Figures\Figures\obj\Debug\Figures.exe
+C:\Users\MiPro\source\repos\Figures\Figures\obj\Debug\Figures.pdb
