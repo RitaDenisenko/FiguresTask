@@ -18,6 +18,10 @@ namespace Figures
             a = newA;
         }
 
+        public override double GetB() { return a; }
+
+        public override void SetB(double newB) { a = newB; }
+
         public override double CountPerimeter()
         {
             return 4 * a;

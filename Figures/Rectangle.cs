@@ -23,13 +23,13 @@ namespace Figures
             b = newB;
         }
 
-        public double GetA() { return a; }
+        public virtual double GetA() { return a; }
 
-        public void SetA(double newA) { a = newA; }
+        public virtual void SetA(double newA) { a = newA; }
 
-        public double GetB() { return b; }
+        public virtual double GetB() { return b; }
 
-        public void SetB(double newB) { b = newB; }
+        public virtual void SetB(double newB) { b = newB; }
 
 
         public override double CountPerimeter()
